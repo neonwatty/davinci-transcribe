@@ -1,0 +1,7 @@
+ipykernel
+torch
+transformers
+pre-commit
+tokenizers
+huggingface_hub
+scikit-image
